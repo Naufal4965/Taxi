@@ -1,0 +1,7 @@
+C:\Users\Naufal\source\repos\TugasClassDanObject\TugasClassDanObject\bin\Debug\TugasClassDanObject.exe.config
+C:\Users\Naufal\source\repos\TugasClassDanObject\TugasClassDanObject\bin\Debug\TugasClassDanObject.exe
+C:\Users\Naufal\source\repos\TugasClassDanObject\TugasClassDanObject\bin\Debug\TugasClassDanObject.pdb
+C:\Users\Naufal\source\repos\TugasClassDanObject\TugasClassDanObject\obj\Debug\TugasClassDanObject.csproj.AssemblyReference.cache
+C:\Users\Naufal\source\repos\TugasClassDanObject\TugasClassDanObject\obj\Debug\TugasClassDanObject.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\source\repos\TugasClassDanObject\TugasClassDanObject\obj\Debug\TugasClassDanObject.exe
+C:\Users\Naufal\source\repos\TugasClassDanObject\TugasClassDanObject\obj\Debug\TugasClassDanObject.pdb
